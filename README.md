@@ -32,11 +32,12 @@ This project was made with some starter code to help devolopers learn how to add
 
 ## Installation
 
-N/A
+no installation needed, just clink on the link at the bottom and you will be sent to the deployed webpage.
 
 ## Usage
 
-
+You can click on the box container on each hour and you will be able to type in the box container, but before you exit out make sure you press the save buton on the side of the text box to save to local storage, that waqy when you reload the webpage it will 
+reappear on the webpage.
 
 ## Credits
 
@@ -48,9 +49,9 @@ Refer to the repo for licenses.
 
 
 ## screenshots of the webpage
-![Screenshot 1](<./develop/Screenshot1.png>)
-![Screenshot 2](<./develop/Screenshot2.png>)
+![Screenshot 1](<Develop/Screenshot1.png>)
+![Screenshot 2](<Develop/Screenshot2.png>)
 
 ## Webpage link 
 
-
+https://dannysaravia001.github.io/Module-5-challenge/
