@@ -13,11 +13,11 @@ $('.time-block').each(function () {
   var blockHour = parseInt(timeBlockId)
   
   if (blockHour < currentHour) {
-    $(this).addclass("past")
+    $(this).addClass("past")
   }else if(blockHour === currentHour) {
-    $(this).addclass("present")
+    $(this).addClass("present")
   } else {
-    $(this).addclass("future")
+    $(this).addClass("future")
   }
 
   // TODO: Add code to get any user input that was saved in localStorage and set
@@ -25,5 +25,5 @@ $('.time-block').each(function () {
   // attribute of each time-block be used to do this?
   //
   // TODO: Add code to display the current date in the header of the page.
-  
+  $("#currentDay").text(dayjs().format("dddd, MMMM D, YYYY"));
 });
