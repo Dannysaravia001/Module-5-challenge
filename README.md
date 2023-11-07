@@ -49,8 +49,8 @@ Refer to the repo for licenses.
 
 
 ## screenshots of the webpage
-![Screenshot 1](<Develop/Screenshot1.png>)
-![Screenshot 2](<Develop/Screenshot2.png>)
+![Screenshot 1](<Develop/assets/Screenshot1.png)
+![Screenshot 2](<Develop/assets/Screenshot2.png>)
 
 ## Webpage link 
 
